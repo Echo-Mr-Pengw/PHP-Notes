@@ -1,6 +1,6 @@
 <?php
 /**
- * PHP7 类常量
+ * PHP7类常量
  * @author new1024kb
  * @since  2019-12-23
  */
