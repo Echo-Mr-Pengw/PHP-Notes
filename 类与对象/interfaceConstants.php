@@ -1,6 +1,6 @@
 <?php
 /**
- * PHP7 接口常量
+ * PHP7接口常量
  * @author  new1024kb
  * @since  2019-12-23
  */
