@@ -6,6 +6,9 @@
  * @since  2019-12-25
  */
 class ConstructFunction {
+	/**
+	 * [__construct 构造函数]
+	 */
 	public function __construct() {
 		echo 'init';
 	}
