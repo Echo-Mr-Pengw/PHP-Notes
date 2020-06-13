@@ -1,8 +1,9 @@
-1. Final关键字
-2. trait使用
-3. 对象接口
-4. 抽象类
-5. 构造函数和析构函数
-6. 类接口常量
-7. 范围解析操作符
-8. 访问控制
+# PHP面向对象代码示例
+[1. Final关键字](https://github.com/Echo-Mr-Pengw/PHP-Notes/tree/master/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/Final%E5%85%B3%E9%94%AE%E5%AD%97)  
+[2. trait使用](https://github.com/Echo-Mr-Pengw/PHP-Notes/tree/master/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/trait)  
+[3. 对象接口](https://github.com/Echo-Mr-Pengw/PHP-Notes/tree/master/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/%E5%AF%B9%E8%B1%A1%E6%8E%A5%E5%8F%A3)  
+[4. 抽象类](https://github.com/Echo-Mr-Pengw/PHP-Notes/tree/master/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/%E6%8A%BD%E8%B1%A1%E7%B1%BB)    
+[5. 构造函数和析构函数](https://github.com/Echo-Mr-Pengw/PHP-Notes/tree/master/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%92%8C%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0)   
+[6. 类接口常量](https://github.com/Echo-Mr-Pengw/PHP-Notes/tree/master/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/%E7%B1%BB%E6%8E%A5%E5%8F%A3%E5%B8%B8%E9%87%8F)   
+[7. 范围解析操作符](https://github.com/Echo-Mr-Pengw/PHP-Notes/tree/master/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/%E8%8C%83%E5%9B%B4%E8%A7%A3%E6%9E%90%E6%93%8D%E4%BD%9C%E7%AC%A6)    
+[8. 访问控制](https://github.com/Echo-Mr-Pengw/PHP-Notes/tree/master/%E7%B1%BB%E4%B8%8E%E5%AF%B9%E8%B1%A1/%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6)  
